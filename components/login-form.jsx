@@ -69,7 +69,7 @@ export function LoginForm() {
           id="email"
           name="email"
           type="email"
-          placeholder="name@example.com"
+          placeholder="Email"
           required
           value={formData.email}
           onChange={handleChange}
